@@ -1,0 +1,6 @@
+@EffectiveMobile.Idiyatullin.DeliveryServiceFilterWebApi_HostAddress = http://localhost:5219
+
+GET {{EffectiveMobile.Idiyatullin.DeliveryServiceFilterWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
